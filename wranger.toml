@@ -1,0 +1,6 @@
+name = "shiftgen-schedule-exporter-backend"
+main = "src/worker.js"
+compatibility_date = "2026-06-16"
+
+[vars]
+GOOGLE_CLIENT_ID = "1000397082507-41g95ro42chkq34oslnuhi5dfikpjubm.apps.googleusercontent.com" # web app
