@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ajtadeo/shiftgen-schedule-exporter-backend/issues"
   },
-  "homepage": "https://github.com/ajtadeo/shiftgen-schedule-exporter-backend#readme"
+  "homepage": "https://github.com/ajtadeo/shiftgen-schedule-exporter-backend#readme",
+  "dependencies": {
+    "wrangler": "^4.63.0"
+  }
 }
